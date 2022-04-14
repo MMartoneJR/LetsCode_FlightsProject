@@ -12,6 +12,8 @@ public class FlightsInfoManager extends FlightsFileManager {
     private Double price;
     private long flightTime;
 
+
+
     public FlightsInfoManager(String origin, String destination, String airline, String departure,
                               String arrival, String price) {
 
